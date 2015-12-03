@@ -1,5 +1,5 @@
 # AnDevCon
-Code for Santa Clara talk
+Code for Santa Clara Agile Android talk
 
 Code is also on Codio available at https://codio.com/godfreynolan/AnDevCon-Agile-Android
 
